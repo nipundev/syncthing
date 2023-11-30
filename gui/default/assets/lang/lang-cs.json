@@ -293,7 +293,6 @@
     "Preview": "Náhled",
     "Preview Usage Report": "Náhled hlášení o využívání",
     "QR code": "QR kód",
-    "QUIC connections are in most cases considered suboptimal": "QUIC připojení jsou ve většině případů považována za suboptimální",
     "Quick guide to supported patterns": "Rychlá nápověda k podporovaným vzorům",
     "Random": "Náhodné",
     "Receive Encrypted": "Přijmout zašifrované",
@@ -499,10 +498,14 @@
     "full documentation": "úplná dokumentace",
     "items": "položky",
     "seconds": "sekund",
-    "theme-name-black": "Černý",
-    "theme-name-dark": "Tmavý",
-    "theme-name-default": "Výchozí",
-    "theme-name-light": "Světlý",
+    "theme": {
+        "name": {
+            "black": "Černý",
+            "dark": "Tmavý",
+            "default": "Výchozí",
+            "light": "Světlý"
+        }
+    },
     "{%device%} wants to share folder \"{%folder%}\".": "{{device}} chce sdílet složku „{{folder}}“.",
     "{%device%} wants to share folder \"{%folderlabel%}\" ({%folder%}).": "{{device}} chce sdílet složku „{{folderlabel}}“ ({{folder}}).",
     "{%reintroducer%} might reintroduce this device.": "{{reintroducer}} může toto zařízení znovu uvést."
